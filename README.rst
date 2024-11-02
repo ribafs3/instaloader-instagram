@@ -31,6 +31,11 @@
 
 ::
 
+sudo apt install pip
+pip3 install instaloader --break-system-package
+
+python3 instaloader.py ribafs2
+
     $ pip3 install instaloader
 
     $ instaloader profile [profile ...]
